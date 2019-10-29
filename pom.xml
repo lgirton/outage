@@ -4,8 +4,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.fabric8.quickstarts.cxf.jaxws</groupId>
-    <artifactId>spring-boot-cxf-jaxws</artifactId>
+    <groupId>com.sdge.sdgesi.service</groupId>
+    <artifactId>outage</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <name>Fabric8 :: Quickstarts :: Spring-Boot :: CXF JAXWS</name>
